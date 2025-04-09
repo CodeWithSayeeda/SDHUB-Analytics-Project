@@ -1,61 +1,61 @@
 # 📈 SD HUB Data Analytics Project
 
-This project was completed as part of a hands-on training program at **SD HUB Analytics** (Nov 2024 – Jan 2025). The goal was to apply real-world data analytics techniques using a variety of tools to solve business challenges.
+This project was completed as part of a structured, hands-on data analytics training at **SD HUB** between **November 2024 – January 2025**. The project focused on applying analytics techniques to real-world business scenarios using tools like Power BI, SQL, and Excel.
 
 ---
 
-## 📌 Project Overview
+## 🧠 Objective
 
-- Conducted data cleaning, transformation, and analysis on customer and sales datasets.
-- Explored trends, patterns, and performance metrics across different regions and time periods.
-- Created insightful dashboards and visual reports using **Power BI**.
-- Collaborated on data modeling exercises using **SQL** and **Python (Pandas, Matplotlib)**.
+To explore, analyze, and visualize business data to extract actionable insights that support better decision-making. The project included understanding business KPIs, identifying trends, and building a dashboard for key stakeholders.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🔧 Tools & Technologies
 
-| Tool        | Purpose                                 |
-|-------------|-----------------------------------------|
-| **Python**  | Data cleaning, EDA using Pandas & Matplotlib |
-| **SQL**     | Writing queries for data extraction & filtering |
-| **Excel**   | Preliminary analysis and pivot reporting |
-| **Power BI**| Visualization and dashboard development |
-
----
-
-## 📊 Key Insights
-
-- Identified top-performing customer segments based on sales volume and frequency.
-- Detected seasonal trends and revenue dips, contributing to actionable business recommendations.
-- Used SQL joins and aggregations to uncover cross-category purchase behaviors.
-- Created interactive dashboards in Power BI for non-technical stakeholders.
+| Tool         | Purpose                                         |
+|--------------|-------------------------------------------------|
+| **Power BI** | Creating interactive dashboards and visuals     |
+| **SQL**      | Data querying and exploration                   |
+| **Excel**    | Preliminary data handling and basic analysis    |
 
 ---
 
-## 🧠 What I Learned
+## 📊 Key Insights Delivered
 
-- Hands-on practice with cleaning and transforming raw datasets for analysis.
-- Real-world exposure to business KPIs and how data supports decision-making.
-- Built confidence in using multiple tools in a single workflow.
-- Strengthened skills in storytelling through data visuals and insights.
+- Identified sales trends and performance fluctuations across time periods.
+- Highlighted customer behavior segments contributing most to revenue.
+- Visualized key metrics in an interactive Power BI dashboard to simplify communication with stakeholders.
 
 ---
 
 ## 📎 Files Included
 
-- `/datasets/` – Raw and cleaned datasets used for analysis
-- `/notebooks/` – Python notebooks (.ipynb) with EDA and visualizations
-- `/dashboards/` – Screenshots of Power BI dashboards (PDFs or PNGs)
-- `Final_Report.pdf` – Summary of business insights and outcomes
+- `/dashboard-screenshots/` – 📸 Power BI dashboard screenshot(s) showcasing the final output.
+  
+> ⚠️ *Note: The datasets and code were part of a guided training program and are not publicly shared due to confidentiality.*
+
+---
+
+## 🖼️ Sample Output
+
+![Power BI Dashboard Screenshot](dashboard-screenshots/your-dashboard-image.png)
+
+*(Replace this path with your actual image filename)*
+
+---
+
+## 🚀 What I Learned
+
+- Hands-on application of **data storytelling** using Power BI
+- Improved understanding of **business KPIs and reporting metrics**
+- Built confidence in using data to deliver practical business insights
 
 ---
 
 ## 📬 Contact
 
-If you'd like to learn more about this project or collaborate:
-
 - 📧 Email: your.email@example.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
+
