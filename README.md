@@ -55,7 +55,7 @@ To explore, analyze, and visualize business data to extract actionable insights 
 ## 📬 Contact
 
 - 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/sayeeda-begum-b84916312/)]
 
 ---
 
