@@ -22,7 +22,7 @@ To explore, analyze, and visualize business data to extract actionable insights 
 
 ## 📊 Key Insights Delivered
 
-- Identified sales trends and performance fluctuations across time periods.
+- Identified sales trends and performance fluctuations across periods.
 - Highlighted customer behavior segments contributing most to revenue.
 - Visualized key metrics in an interactive Power BI dashboard to simplify communication with stakeholders.
 
@@ -54,7 +54,7 @@ To explore, analyze, and visualize business data to extract actionable insights 
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: s.begum.professional92@gmail.com
 - 🔗 [LinkedIn][(https://www.linkedin.com/in/sayeeda-begum-b84916312/)]
 
 ---
